@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\Input.o
+./release\Choice.o
+./release\File.o
+./release\Show.o
+./release\Search.o
+./release\qrc_resource.o
+./release\moc_mainwindow.o
+./release\moc_Input.o
+./release\moc_Choice.o
+./release\moc_Show.o
+./release\moc_Search.o
+);

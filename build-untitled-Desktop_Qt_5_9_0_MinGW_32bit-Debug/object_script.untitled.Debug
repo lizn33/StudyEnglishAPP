@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\Input.o
+./debug\Choice.o
+./debug\File.o
+./debug\Show.o
+./debug\Search.o
+./debug\qrc_resource.o
+./debug\moc_mainwindow.o
+./debug\moc_Input.o
+./debug\moc_Choice.o
+./debug\moc_Show.o
+./debug\moc_Search.o
+);
